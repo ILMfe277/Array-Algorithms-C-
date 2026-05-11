@@ -7,7 +7,6 @@ bool isSorted(int arr[], int n) {
 }
 
 int main() {
-    // Contoh 1
     int arr1[] = {10, 20, 30, 40, 50};
     int n1 = 5;
     
@@ -17,7 +16,6 @@ int main() {
         cout << "Array 1: false" << endl;
     }
     
-    // Contoh 2
     int arr2[] = {90, 80, 100, 70, 40, 30};
     int n2 = 6;
     
